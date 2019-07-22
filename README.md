@@ -18,7 +18,7 @@ Takes xml data and convert into a format that can be processe and analyse.
 
 
 # Note
-<pre>To run pig s<pre>cript - </br>
+<pre>To run pig script - </br>
    In Map-Reduce mode ->   pig -x mapreduce pig_script.pig </br>
    In Local mode      ->   pig -x local pig_script.pig</br>
    In grunt shell     ->   exec /pig_script.pig</br>
