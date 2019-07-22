@@ -1,0 +1,29 @@
+<Data>
+  <Book>  
+    <BookId>1001</BookId>
+    <BookName>Five</BookName>
+    <Category>Drama</Category>
+    <Author>Chetan</Author>
+    <Location>America|Germany|Paris|India</Location>
+    <Review>Awesome</Review>
+  </Book>
+
+  <Book>  
+    <BookId>1002</BookId>
+    <BookName>War</BookName>
+    <Category>Action</Category>
+    <Author>Leo</Author>
+    <Location>Africa|Shri Lanka|India</Location>
+    <Review>Average</Review>
+  </Book>
+
+  <Book>  
+    <BookId>1003</BookId>
+    <BookName>The</BookName>
+    <Category>Romance</Category>
+    <Author>Gandi</Author>
+    <Location>America|France|Paris|India</Location>
+    <Review>Excellent</Review>
+  </Book>
+
+</Data>
