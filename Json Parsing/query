@@ -1,0 +1,16 @@
+data = load '/home/hitesh/Desktop/sample1.json' using JsonLoader('recipe:chararray, ingredients:{(name:chararray)}, inventor: (name:chararray, age:int)');
+
+
+
+
+data1 = load '/home/hitesh/Desktop/sample.json' using JsonLoader(
+    'id:chararray,
+     type:chararray,
+     name:chararray,
+     ppu: float,
+     batters :
+            (batter:{(id:chararray, type:chararray)}),
+     topping: {(id:chararray, type:chararray)}');
+
+
+
